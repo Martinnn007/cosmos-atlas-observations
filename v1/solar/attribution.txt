@@ -1,0 +1,11 @@
+Planetary textures: Solar System Scope / INOVE.
+https://extension.solarsystemscope.com/textures/
+Licensed under Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+
+The downloaded 2K textures for Mercury, Venus, Earth, Mars, Jupiter,
+Saturn and its rings, Uranus, Neptune, the Sun, and the Moon were resized
+and re-encoded for the web. Lighting, atmospheric shading, orbital phases,
+and the terrain on other moons and dwarf planets are Atlas visualizations.
+The original texture publisher uses NASA elevation and imagery data and
+fills gaps in certain maps with illustrative terrain.
