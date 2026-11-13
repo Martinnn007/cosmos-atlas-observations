@@ -1,0 +1,21 @@
+EARTH AT FIRST LIGHT
+Global and Atlantic region daytime albedo: Blue Marble Next Generation,
+July 2004, NASA Earth Observatory and Reto Stockli (NASA GSFC).
+https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/
+Global source: 5400 × 2700. Regional source: 21600 × 10800,
+cropped and resampled for web. Crop: 148°W–28°W, 6°N–70°N.
+Nighttime city lights: Black Marble 2016, NASA Earth Observatory,
+Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román (NASA GSFC).
+https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/
+Cloud field and fallback albedo: see the Atlas solar asset credits.
+Cloud height, movement, lighting and orbital timing are rendered models.
+
+ABOVE A JOVIAN STORM
+Global color map: NASA/JPL/Space Science Institute, Cassini PIA07782.
+https://science.nasa.gov/photojournal/cassinis-best-maps-of-jupiter-cylindrical-map/
+Regional image: Jovian Vortex View (PIA23440), from NASA/JPL-Caltech/
+SwRI/MSSS JunoCam imagery. Image processing Kevin M. Gill, CC BY.
+https://science.nasa.gov/photojournal/jovian-vortex-view/
+The regional image was resampled, placed within the modeled Jovian
+cloud field, and animated by illustrative wind and depth shaders. Its
+placement and animated cloud heights are not measurements.

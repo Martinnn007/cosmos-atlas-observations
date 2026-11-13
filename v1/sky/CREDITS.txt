@@ -1,0 +1,8 @@
+Gaia Early Data Release 3 all-sky colour
+ESA/Gaia/DPAC. Acknowledgement: A. Moitinho.
+CC BY-SA 3.0 IGO https://creativecommons.org/licenses/by-sa/3.0/igo/
+Source: https://www.esa.int/media/the-colour-of-the-sky-from-gaia-s-early-data-release-3
+
+Cosmos Atlas adapted the 8000 × 4000 Hammer-projected colour map to a
+4096 × 2048 Galactic equirectangular WebP. This adapted image is licensed
+under CC BY-SA 3.0 IGO. The Atlas grades the image to suit each shot.
