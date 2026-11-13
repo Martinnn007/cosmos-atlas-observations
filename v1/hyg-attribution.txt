@@ -1,0 +1,11 @@
+HYG Database v3.8, by David Nash (Astronexus).
+https://github.com/astronexus/HYG-Database
+https://github.com/astronexus/HYG-Database/blob/main/hyg/v3/hyg_v38.csv.gz
+
+This adapted subset retains sources within 500 light-years. Columns contain HYG ID,
+right ascension (hours), declination (degrees), distance (light-years),
+apparent magnitude, spectral type, B−V color index, and available catalogue aliases.
+Numeric precision has been rounded and missing B−V values use 0.65.
+
+HYG v3.8 is licensed CC BY-SA 4.0. This adapted data file is distributed under
+the same license: https://creativecommons.org/licenses/by-sa/4.0/
