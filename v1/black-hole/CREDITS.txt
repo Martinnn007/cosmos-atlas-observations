@@ -1,0 +1,19 @@
+Sagittarius A* cinematic flyby and radio reference
+
+Galactic Centre near-infrared image
+Credit: ESO/Nogueras-Lara et al.
+HAWK-I at ESO's Very Large Telescope, J/H/Ks composite, 2019.
+Source: https://www.eso.org/public/images/eso1920a/
+Original: https://cdn.eso.org/images/publicationjpg/eso1920a.jpg
+Atlas adaptation: resized and WebP-compressed. The renderer reprojects and tone-maps this observed mosaic as the backdrop for an illustrative camera. It does not represent the measured sky from the flyby coordinates.
+
+Sagittarius A* 1.3 mm reconstructed image
+Credit: EHT Collaboration
+Source: https://www.eso.org/public/images/eso2208-eht-mwa/
+Original: https://cdn.eso.org/images/screen/eso2208-eht-mwa.jpg
+Atlas adaptation: resized and WebP-compressed. The source averages reconstructions from the EHT's 2017 observations.
+Science: https://doi.org/10.3847/2041-8213/ac6674
+
+Both images are available under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+ESO image usage: https://www.eso.org/public/copyright/

@@ -1,0 +1,48 @@
+Cassini Enceladus E-21 • 28 October 2015
+
+NASA Planetary Data System / Navigation and Ancillary Information Facility.
+Cassini SPICE Kernels CO-S/J/E/V-SPICE-6-V1.0.
+https://science.nasa.gov/missions/cassini/enceladus-flyby-21-e-21-deepest-dive-through-the-plume/
+
+Reconstructed spacecraft position, attitude and Sun direction sampled every 0.5 s.
+Enceladus body-fixed IAU_ENCELADUS. Altitude is the nearest distance to the
+NAIF reference ellipsoid (256.6 × 251.4 × 248.3 km), not local terrain clearance.
+UTC is the spacecraft event time, not the later Earth-received time.
+The ISS wide-angle boresight and square 3.48° field are derived from the IK/FK.
+The simulated scene uses archived pointing even between photos. Optical
+distortion, exposure response, plume appearance and exterior framing are modeled.
+
+Kernel paths and SHA-256
+https://naif.jpl.nasa.gov/pub/naif/pds/data/co-s_j_e_v-spice-6-v1.0/cosp_1000/data/
+lsk/naif0012.tls  6279f0007955c31a202b80ec419b82e04ab4f2cdd369ed8346b68abbc5978bd7
+pck/cpck31Oct2017.tpc  ca3ca77b788454cec2ff4d875d773b5e3fdb563ad397f247ddd045a5c606e53f
+fk/cas_v44.tf  c1e49749bec168e05c82e7c8b77455cd446c0bb8aafd31aeb1975d07ba6de02d
+sclk/cas00172.tsc  066c3e7e4af11512a33d64d518c214b4b2637bcfd7f5b7c6077116019d377f0d
+ik/cas_iss_v10.ti  1a88229e952caf282bc53090e3b37f495e99b1f4bf1a10783d00cf75365ae859
+spk/200128RU_SCPSE_15279_15310.bsp  be9bff93b41bccd642b7e767cc8c692f6de3a2c8b992505a9289afe30890cd03
+ck/15298_15303ra.bc  c6949d76811e5d8fe5503e0f591e5b79362f761021349182200c9e85fc80feb4
+
+ISS Wide Angle Camera (ISSWA), filters CL1/CL2, 5 ms exposures.
+Images: NASA/JPL-Caltech/Space Science Institute. These are PDS RMS browse
+derivatives encoded as grayscale WebP for display. Times are label START_TIME.
+
+co-iss-w1824740721  2015-10-28T15:21:55.519Z
+https://opus.pds-rings.seti.org/holdings/volumes/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740721_1.LBL
+https://opus.pds-rings.seti.org/holdings/previews/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740721_1_full.png
+
+co-iss-w1824740754  2015-10-28T15:22:28.526Z
+https://opus.pds-rings.seti.org/holdings/volumes/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740754_1.LBL
+https://opus.pds-rings.seti.org/holdings/previews/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740754_1_full.png
+
+co-iss-w1824740771  2015-10-28T15:22:45.526Z
+https://opus.pds-rings.seti.org/holdings/volumes/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740771_1.LBL
+https://opus.pds-rings.seti.org/holdings/previews/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740771_1_full.png
+
+co-iss-w1824740788  2015-10-28T15:23:02.526Z
+https://opus.pds-rings.seti.org/holdings/volumes/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740788_1.LBL
+https://opus.pds-rings.seti.org/holdings/previews/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740788_1_full.png
+
+co-iss-w1824740805  2015-10-28T15:23:19.530Z
+https://opus.pds-rings.seti.org/holdings/volumes/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740805_1.LBL
+https://opus.pds-rings.seti.org/holdings/previews/COISS_2xxx/COISS_2100/data/1824725635_1824802948/W1824740805_1_full.png
+

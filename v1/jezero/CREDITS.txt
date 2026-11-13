@@ -1,0 +1,33 @@
+JEZERO · FROM ORBIT TO OCTAVIA E. BUTLER LANDING
+
+Outer relief and base color: ESA/DLR/FU Berlin Mars Express High
+Resolution Stereo Camera (HRSC), HMC_13E10_DA5 and CO5 (50 m native).
+Derived crops are offered under CC BY-SA 3.0 IGO.
+https://hrscteam.dlr.de/public/data/HMC30/quads.php?quad=mc13e
+https://creativecommons.org/licenses/by-sa/3.0/igo/
+
+Crater relief and monochrome detail: NASA/JPL-Caltech/MSSS and USGS,
+Mars 2020 Science Investigation CTX DEM (20 m) and orthoimage (5 m).
+https://astrogeology.usgs.gov/search/map/mars_2020_science_investigation_ctx_dem_mosaic
+
+Landing site relief and monochrome detail: NASA/JPL-Caltech/University
+of Arizona and USGS, Mars 2020 TRN HiRISE stereo DTM and orthorectified
+image mosaic, Fergason et al. (1 m and 0.25 m native sampling).
+https://doi.org/10.5066/P9REJ9JN
+https://astrogeology.usgs.gov/search/map/mars_2020_terrain_relative_navigation_hirise_dtm_mosaic
+https://astrogeology.usgs.gov/search/map/mars_2020_terrain_relative_navigation_hirise_orthorectified_image_mosaic
+
+Atlas horizontal terrain grid spacing is approximately 440–460 m
+(HRSC), 130–145 m (CTX) and 4.7–5.0 m (HiRISE) before mesh resampling.
+Coverage boundaries blend to the surrounding coarser observations.
+Image colors blend HRSC color with the monochrome detail and are graded.
+The vertical datum is the Mars areoid. The atmospheric scattering and
+flight path are modeled. The global Mars surface follows solar asset credits.
+
+Rover photo: PIA24264, Sol 3, NASA/JPL-Caltech/MSSS/ASU. 142 frames,
+21 February 2021, Perseverance Mastcam-Z, Octavia E. Butler Landing.
+The measured frame supplies the 360° horizontal view and the observed
+foreground. Rendering outside the vertical photographic field uses
+neutral edge shading. Display alignment is approximate.
+https://science.nasa.gov/photojournal/mastcam-zs-first-360-degree-panorama/
+https://psg.gsfc.nasa.gov/apps/mars/
