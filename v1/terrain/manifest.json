@@ -1,0 +1,488 @@
+{
+  "Earth": {
+    "source": "https://gis.ngdc.noaa.gov/arcgis/rest/services/DEM_mosaics/DEM_global_mosaic/ImageServer",
+    "title": "NOAA/NCEI DEM Global Mosaic",
+    "license": "NOAA NCEI data, US government public-domain work",
+    "datum": "NCEI global elevation and bathymetry mosaic, WGS 84 horizontal coordinates",
+    "referenceRadiusM": 6371008,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Global land, ice and bathymetry from merged sources",
+    "minM": -8989,
+    "maxM": 5520,
+    "gridValidFraction": 1.0,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/earth/0/{x}/{y}.i16.gz",
+        "resolutionM": 111195.07
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/earth/1/{x}/{y}.i16.gz",
+        "resolutionM": 55597.53
+      },
+      {
+        "width": 600,
+        "height": 420,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 1,
+        "url": "terrain/earth/2/{x}/{y}.i16.gz",
+        "resolutionM": 927,
+        "bounds": [
+          -115,
+          34.5,
+          -110,
+          38
+        ],
+        "name": "Grand Canyon"
+      }
+    ]
+  },
+  "Moon": {
+    "source": "https://svs.gsfc.nasa.gov/4720/",
+    "title": "NASA LRO / LOLA CGI Moon Kit",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "LOLA mean Earth/polar-axis radius of 1,737,400 m",
+    "referenceRadiusM": 1737400,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Global gridded coverage",
+    "minM": -8490,
+    "maxM": 10007,
+    "gridValidFraction": 1.0,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/moon/0/{x}/{y}.i16.gz",
+        "resolutionM": 30323.35
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/moon/1/{x}/{y}.i16.gz",
+        "resolutionM": 15161.68
+      },
+      {
+        "width": 224,
+        "height": 224,
+        "tileSize": 512,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/moon/2/{x}/{y}.i16.gz",
+        "resolutionM": 1895.21,
+        "bounds": [
+          -18,
+          -50,
+          -4,
+          -36
+        ],
+        "name": "Tycho"
+      }
+    ]
+  },
+  "Mars": {
+    "source": "https://pds-geosciences.wustl.edu/missions/mgs/megdr.html",
+    "title": "Mars Global Surveyor MOLA MEGDR v2",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "IAU2000 GMM3 Martian areoid",
+    "referenceRadiusM": 3396000,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Global gridded altimetry with source-interpolated gaps",
+    "minM": -7738,
+    "maxM": 21076,
+    "gridValidFraction": 1.0,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/mars/0/{x}/{y}.i16.gz",
+        "resolutionM": 59271.38
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/mars/1/{x}/{y}.i16.gz",
+        "resolutionM": 29635.69
+      },
+      {
+        "width": 1008,
+        "height": 368,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 1,
+        "url": "terrain/mars/2/{x}/{y}.i16.gz",
+        "resolutionM": 3705,
+        "bounds": [
+          -105,
+          -22,
+          -42,
+          1
+        ],
+        "name": "Valles Marineris"
+      }
+    ]
+  },
+  "Mercury": {
+    "source": "https://astrogeology.usgs.gov/search/map/mercury_messenger_global_dem_665m",
+    "title": "MESSENGER USGS MDIS global DEM v02",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "MESSENGER 2,439,400 m spherical datum",
+    "referenceRadiusM": 2439400,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Global gridded coverage",
+    "minM": -5246,
+    "maxM": 4088,
+    "gridValidFraction": 1.0,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/mercury/0/{x}/{y}.i16.gz",
+        "resolutionM": 42575.56
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/mercury/1/{x}/{y}.i16.gz",
+        "resolutionM": 21287.78
+      },
+      {
+        "width": 672,
+        "height": 798,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 2,
+        "url": "terrain/mercury/2/{x}/{y}.i16.gz",
+        "resolutionM": 2027.41,
+        "bounds": [
+          148,
+          13,
+          180,
+          51
+        ],
+        "name": "Caloris Planitia"
+      }
+    ]
+  },
+  "Venus": {
+    "source": "https://astrogeology.usgs.gov/search/map/venus_magellan_global_topography_4641m",
+    "title": "Magellan global topography v02",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "Magellan 6,051,000 m spherical datum",
+    "referenceRadiusM": 6051000,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Near-global radar altimetry with gaps preserved",
+    "minM": -2597,
+    "maxM": 10860,
+    "gridValidFraction": 0.9162962962962963,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/venus/0/{x}/{y}.i16.gz",
+        "resolutionM": 105609.87
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/venus/1/{x}/{y}.i16.gz",
+        "resolutionM": 52804.94
+      },
+      {
+        "width": 544,
+        "height": 315,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 1,
+        "url": "terrain/venus/2/{x}/{y}.i16.gz",
+        "resolutionM": 4693.77,
+        "bounds": [
+          -8,
+          58,
+          16,
+          72
+        ],
+        "name": "Maxwell Montes"
+      }
+    ]
+  },
+  "Ceres": {
+    "source": "https://astrogeology.usgs.gov/search/map/ceres_dawn_fc2_hamo_global_dtm_137m",
+    "title": "Dawn FC2 HAMO global DTM",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "Dawn HAMO reference surface",
+    "referenceRadiusM": 470000,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Global gridded coverage",
+    "minM": -27835,
+    "maxM": 16869,
+    "gridValidFraction": 1.0,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/ceres/0/{x}/{y}.i16.gz",
+        "resolutionM": 8203.05
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/ceres/1/{x}/{y}.i16.gz",
+        "resolutionM": 4101.52
+      },
+      {
+        "width": 900,
+        "height": 960,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 2,
+        "url": "terrain/ceres/2/{x}/{y}.i16.gz",
+        "resolutionM": 137,
+        "bounds": [
+          -128,
+          12,
+          -113,
+          28
+        ],
+        "name": "Occator"
+      }
+    ]
+  },
+  "Enceladus": {
+    "source": "https://astrogeology.usgs.gov/search/map/enceladus-cassini-global-dem-200m-schenk",
+    "title": "Cassini ISS 200 m DEM by Schenk and McKinnon",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "Cassini DTM reference surface",
+    "referenceRadiusM": 256200,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Stereo-derived relief merged with the global shape solution",
+    "minM": -2505,
+    "maxM": 1879,
+    "gridValidFraction": 1.0,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/enceladus/0/{x}/{y}.i16.gz",
+        "resolutionM": 4471.53
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/enceladus/1/{x}/{y}.i16.gz",
+        "resolutionM": 2235.77
+      },
+      {
+        "width": 1024,
+        "height": 480,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 1,
+        "url": "terrain/enceladus/2/{x}/{y}.i16.gz",
+        "resolutionM": 1572.02,
+        "bounds": [
+          -180,
+          -90,
+          180,
+          -65
+        ],
+        "name": "South polar terrain"
+      }
+    ]
+  },
+  "Pluto": {
+    "source": "https://astrogeology.usgs.gov/search/map/pluto_new_horizons_lorri_mvic_global_dem_300m",
+    "title": "New Horizons LORRI/MVIC stereogrammetric DEM",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "New Horizons 1,188,300 m spherical datum",
+    "referenceRadiusM": 1188300,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Encounter hemisphere, about 42% of the surface",
+    "minM": -3298,
+    "maxM": 5755,
+    "gridValidFraction": 0.46439814814814817,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/pluto/0/{x}/{y}.i16.gz",
+        "resolutionM": 20739.75
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/pluto/1/{x}/{y}.i16.gz",
+        "resolutionM": 10369.87
+      },
+      {
+        "width": 550,
+        "height": 888,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 2,
+        "url": "terrain/pluto/2/{x}/{y}.i16.gz",
+        "resolutionM": 867.3,
+        "bounds": [
+          157,
+          12,
+          180,
+          49
+        ],
+        "name": "Sputnik Planitia"
+      }
+    ]
+  },
+  "Charon": {
+    "source": "https://astrogeology.usgs.gov/search/map/charon_new_horizons_lorri_mvic_global_dem_300m",
+    "title": "New Horizons LORRI/MVIC stereogrammetric DEM",
+    "license": "NASA public data and imagery usage guidelines",
+    "datum": "New Horizons 606,000 m spherical datum",
+    "referenceRadiusM": 606000,
+    "projection": "equirectangular",
+    "longitude": "east",
+    "latitude": "planetocentric",
+    "encoding": "int16le",
+    "scaleM": 1,
+    "offsetM": 0,
+    "nodata": -32768,
+    "coverage": "Encounter hemisphere, about 40% of the surface",
+    "minM": -13248,
+    "maxM": 6272,
+    "gridValidFraction": 0.45645061728395064,
+    "levels": [
+      {
+        "width": 360,
+        "height": 180,
+        "tileSize": 360,
+        "columns": 1,
+        "rows": 1,
+        "url": "terrain/charon/0/{x}/{y}.i16.gz",
+        "resolutionM": 10576.7
+      },
+      {
+        "width": 720,
+        "height": 360,
+        "tileSize": 180,
+        "columns": 4,
+        "rows": 2,
+        "url": "terrain/charon/1/{x}/{y}.i16.gz",
+        "resolutionM": 5288.35
+      },
+      {
+        "width": 900,
+        "height": 620,
+        "tileSize": 512,
+        "columns": 2,
+        "rows": 2,
+        "url": "terrain/charon/2/{x}/{y}.i16.gz",
+        "resolutionM": 646.35,
+        "bounds": [
+          -105,
+          -18,
+          -50,
+          13
+        ],
+        "name": "Serenity Chasma"
+      }
+    ]
+  }
+}

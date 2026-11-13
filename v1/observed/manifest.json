@@ -1,0 +1,214 @@
+{
+  "Moon": {
+    "source": "https://svs.gsfc.nasa.gov/4720/",
+    "title": "NASA Goddard SVS, LROC imagery mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/moon.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Io": {
+    "source": "https://space.jpl.nasa.gov/tmaps/jupiter.html",
+    "title": "NASA/JPL/USGS Voyager and Galileo color mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/io.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Europa": {
+    "source": "https://space.jpl.nasa.gov/tmaps/jupiter.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/europa.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Ganymede": {
+    "source": "https://space.jpl.nasa.gov/tmaps/jupiter.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/ganymede.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Callisto": {
+    "source": "https://space.jpl.nasa.gov/tmaps/jupiter.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/callisto.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Mimas": {
+    "source": "https://space.jpl.nasa.gov/tmaps/saturn.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/mimas.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Enceladus": {
+    "source": "https://space.jpl.nasa.gov/tmaps/saturn.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/enceladus.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Tethys": {
+    "source": "https://space.jpl.nasa.gov/tmaps/saturn.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/tethys.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Dione": {
+    "source": "https://space.jpl.nasa.gov/tmaps/saturn.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/dione.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Rhea": {
+    "source": "https://space.jpl.nasa.gov/tmaps/saturn.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/rhea.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Iapetus": {
+    "source": "https://space.jpl.nasa.gov/tmaps/saturn.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/iapetus.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Ariel": {
+    "source": "https://space.jpl.nasa.gov/tmaps/uranus.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/ariel.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Titania": {
+    "source": "https://space.jpl.nasa.gov/tmaps/uranus.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/titania.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Oberon": {
+    "source": "https://space.jpl.nasa.gov/tmaps/uranus.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/oberon.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Miranda": {
+    "source": "https://space.jpl.nasa.gov/tmaps/uranus.html",
+    "title": "NASA/JPL/USGS Voyager mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/miranda.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Triton": {
+    "source": "https://science.nasa.gov/3d-resources/neptune-triton/",
+    "title": "Voyager / USGS Triton texture",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/triton.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Mercury": {
+    "source": "https://trek.nasa.gov/tiles/apidoc/trekAPI.html?body=mercury",
+    "title": "MESSENGER MDIS enhanced-color mosaic via NASA Solar System Treks",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/mercury.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Archival mosaic. Native coverage and photometric processing vary."
+  },
+  "Venus": {
+    "source": "https://maps.jpl.nasa.gov/tmaps/venus.html",
+    "title": "JPL Magellan radar mosaic with Pioneer and Venera coverage",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/venus.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Radar reflectivity with a false-color palette, for the surface view only.",
+    "surfaceOnly": true
+  },
+  "Ceres": {
+    "source": "https://dawngis.dlr.de/data/Ceres/mosaic_ceres.php",
+    "title": "DLR Dawn FC2 controlled HAMO mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/ceres.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Panchromatic spacecraft mosaic. Unmapped pixels are shown in neutral gray."
+  },
+  "Pluto": {
+    "source": "https://astrogeology.usgs.gov/search/map/pluto_new_horizons_lorri_mvic_global_mosaic_300m",
+    "title": "New Horizons LORRI/MVIC panchromatic mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/pluto.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Panchromatic spacecraft mosaic. Unmapped pixels are shown in neutral gray."
+  },
+  "Charon": {
+    "source": "https://astrogeology.usgs.gov/search/map/charon_new_horizons_lorri_mvic_global_mosaic_300m",
+    "title": "New Horizons LORRI/MVIC panchromatic mosaic",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/charon.webp",
+    "kind": "albedo",
+    "projection": "equirectangular",
+    "note": "Panchromatic spacecraft mosaic. Unmapped pixels are shown in neutral gray."
+  },
+  "Phobos": {
+    "source": "https://naif.jpl.nasa.gov/pub/naif/ROSETTA/kernels/dsk/",
+    "title": "NAIF archived Phobos shape mesh",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/phobos.shape.gz",
+    "kind": "shape",
+    "radiusM": 11080,
+    "encoding": "mesh-f32le-u32le",
+    "axes": "x-z-minus-y",
+    "units": "km"
+  },
+  "Deimos": {
+    "source": "https://naif.jpl.nasa.gov/pub/naif/ROSETTA/kernels/dsk/",
+    "title": "NAIF archived Deimos shape mesh",
+    "license": "NASA public data and imagery usage guidelines",
+    "url": "observed/deimos.shape.gz",
+    "kind": "shape",
+    "radiusM": 6200,
+    "encoding": "mesh-f32le-u32le",
+    "axes": "x-z-minus-y",
+    "units": "km"
+  }
+}

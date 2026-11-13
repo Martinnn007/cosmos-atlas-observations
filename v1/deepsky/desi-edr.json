@@ -1,0 +1,219 @@
+{
+  "source": "https://data.desi.lbl.gov/doc/releases/edr/vac/epoviz/",
+  "download": "https://data.desi.lbl.gov/public/edr/vac/edr/epoviz/v1.0/EDR-Viz-Outreach-VAC.csv.gz",
+  "sha256": "83a4c4c4c4e8eb309e6a71459b3e6087113b82ef03edeeb09752ce368443b6d6",
+  "count": 669377,
+  "previewCount": 49125,
+  "tracerCounts": [
+    54084,
+    261489,
+    125174,
+    228630
+  ],
+  "footprint": [
+    {
+      "id": 0,
+      "axis": [
+        -0.8661729,
+        0.4982814,
+        0.0382105
+      ],
+      "radiusDeg": 1.8479,
+      "count": 34024
+    },
+    {
+      "id": 1,
+      "axis": [
+        -0.9999747,
+        0.0070871,
+        -0.0005841
+      ],
+      "radiusDeg": 1.8726,
+      "count": 36001
+    },
+    {
+      "id": 2,
+      "axis": [
+        -0.9985165,
+        -0.0544468,
+        -0.0005916
+      ],
+      "radiusDeg": 1.7999,
+      "count": 35385
+    },
+    {
+      "id": 3,
+      "axis": [
+        -0.4656108,
+        -0.0800487,
+        0.8813619
+      ],
+      "radiusDeg": 1.8452,
+      "count": 32830
+    },
+    {
+      "id": 4,
+      "axis": [
+        -0.8524691,
+        -0.223948,
+        0.4723809
+      ],
+      "radiusDeg": 1.8544,
+      "count": 33956
+    },
+    {
+      "id": 5,
+      "axis": [
+        -0.8626661,
+        -0.4982809,
+        0.0867368
+      ],
+      "radiusDeg": 1.8722,
+      "count": 33685
+    },
+    {
+      "id": 6,
+      "axis": [
+        -0.4958483,
+        -0.3531202,
+        0.793373
+      ],
+      "radiusDeg": 1.851,
+      "count": 30996
+    },
+    {
+      "id": 7,
+      "axis": [
+        -0.6521831,
+        -0.5057856,
+        0.5646575
+      ],
+      "radiusDeg": 1.8764,
+      "count": 33622
+    },
+    {
+      "id": 8,
+      "axis": [
+        -0.8060855,
+        -0.591712,
+        -0.0101518
+      ],
+      "radiusDeg": 1.822,
+      "count": 35395
+    },
+    {
+      "id": 9,
+      "axis": [
+        -0.7685101,
+        -0.6397427,
+        -0.0110286
+      ],
+      "radiusDeg": 1.816,
+      "count": 36043
+    },
+    {
+      "id": 10,
+      "axis": [
+        -0.7868332,
+        -0.6157396,
+        0.0419324
+      ],
+      "radiusDeg": 1.8571,
+      "count": 34325
+    },
+    {
+      "id": 11,
+      "axis": [
+        -0.2629665,
+        -0.5106575,
+        0.8185826
+      ],
+      "radiusDeg": 1.867,
+      "count": 34677
+    },
+    {
+      "id": 12,
+      "axis": [
+        -0.3513759,
+        -0.6353497,
+        0.6876523
+      ],
+      "radiusDeg": 1.8501,
+      "count": 31651
+    },
+    {
+      "id": 13,
+      "axis": [
+        -0.296993,
+        -0.6627092,
+        0.6874676
+      ],
+      "radiusDeg": 1.8236,
+      "count": 34161
+    },
+    {
+      "id": 14,
+      "axis": [
+        -0.2482091,
+        -0.7861759,
+        0.5659679
+      ],
+      "radiusDeg": 1.8818,
+      "count": 32536
+    },
+    {
+      "id": 15,
+      "axis": [
+        -0.002229,
+        -0.4066429,
+        0.9135845
+      ],
+      "radiusDeg": 1.8677,
+      "count": 30351
+    },
+    {
+      "id": 16,
+      "axis": [
+        -0.8787287,
+        -0.2310651,
+        0.417666
+      ],
+      "radiusDeg": 1.7641,
+      "count": 34570
+    },
+    {
+      "id": 17,
+      "axis": [
+        -0.8402413,
+        -0.5421097,
+        -0.0105678
+      ],
+      "radiusDeg": 1.7581,
+      "count": 34180
+    },
+    {
+      "id": 18,
+      "axis": [
+        -0.0020024,
+        -0.4621389,
+        0.8868053
+      ],
+      "radiusDeg": 1.7738,
+      "count": 29753
+    },
+    {
+      "id": 19,
+      "axis": [
+        -0.4052224,
+        -0.6028802,
+        0.6872628
+      ],
+      "radiusDeg": 1.764,
+      "count": 31236
+    }
+  ],
+  "maxDistanceGlyr": 22.68077,
+  "distanceMethod": "Present-day comoving distance from measured spectroscopic redshift, using the published DESI fiducial cosmology (AbacusSummit, h=0.6736).",
+  "quantization": "1/1024 billion light-years for coordinates and 1/16000 for redshift.",
+  "license": "https://data.desi.lbl.gov/doc/acknowledgments/"
+}

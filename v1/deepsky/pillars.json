@@ -1,0 +1,15 @@
+{
+  "source": "https://science.nasa.gov/3d-resources/pillars-of-creation/",
+  "download": "https://assets.science.nasa.gov/content/dam/science/cds/3d/resources/printable/pillars-of-creation/Pillars%20of%20Creation%20(positions).stl",
+  "sha256": "7895b0b7446b5793e51b4bc560f6a90b26ef8cfef70fcc39ef5017616f5d4489",
+  "triangles": 737170,
+  "gridXYZ": [
+    106,
+    182,
+    212
+  ],
+  "solidVoxels": 188994,
+  "modelCredit": "Leah Hustak and Ralf Crawford (STScI), NASA\u2019s Universe of Learning",
+  "description": "Voxelization of the STScI Pillars positioning mesh. Gas density, ionization colors, and optical parameters are an illustration. The parent model is observation-constrained, not a measurement of gas density.",
+  "spectroscopy": "https://science.nasa.gov/missions/hubble/pillars-of-creation-revealed-in-3-d/"
+}
