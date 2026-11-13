@@ -7,7 +7,11 @@ cropped and resampled for web. Crop: 148°W–28°W, 6°N–70°N.
 Nighttime city lights: Black Marble 2016, NASA Earth Observatory,
 Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román (NASA GSFC).
 https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/
-Cloud field and fallback albedo: see the Atlas solar asset credits.
+Global cloud coverage: NOAA Climate Prediction Center satellite cloud
+composite, NASA Goddard Scientific Visualization Studio visualization 4439,
+frame 01000, resampled opacity channel. Polar coverage fades to the Atlas's
+existing attributed cloud fallback.
+https://svs.gsfc.nasa.gov/4439/
 Cloud height, movement, lighting and orbital timing are rendered models.
 
 ABOVE A JOVIAN STORM
