@@ -1,0 +1,28 @@
+ENCELADUS · CASSINI-INSPIRED SOUTH-POLAR DIVE
+
+Cassini ISS global false-color mosaic (PIA18435), processed by Paul Schenk.
+NASA/JPL-Caltech/Space Science Institute/Lunar and Planetary Institute.
+https://science.nasa.gov/photojournal/color-maps-of-enceladus-2014/
+
+Clear-filter south-polar image and stereo relief use Schenk, P. M. and
+McKinnon, W. B. (2024), New global topography of Enceladus: Hypsometry,
+basins, spherical harmonics, shell thickness, and true polar wander revisited.
+Icarus 408, 115827. https://doi.org/10.1016/j.icarus.2023.115827
+USGS Astrogeology/PDS source image sampling 100 m and DEM sampling 200 m.
+Atlas derivatives use a 2048 px south-polar reprojection, a 1536 × 768
+height grid in integer metres, and a 4096 × 2048 global color texture.
+https://astrogeology.usgs.gov/search/map/enceladus-cassini-global-mosaic-100m-schenk
+https://astrogeology.usgs.gov/search/map/enceladus-cassini-global-dem-200m-schenk
+
+The eight localized dust vent positions and directions follow Spitale, J. N.
+and Porco, C. C. (2007), Association of the jets of Enceladus with the warmest
+regions on its south-polar fractures, Nature 449, 695–697, as tabulated in
+Dong et al. (2015), Journal of Geophysical Research: Planets, Table 2.
+https://doi.org/10.1038/nature06217
+https://doi.org/10.1002/2014JE004700
+
+Ice density, jet intensity, fine grain distribution and diffuse curtains are
+modeled. The camera and lighting are composed, inspired by the Cassini E-21
+encounter on October 28, 2015. The sequence is a cinematic interpretation
+of Cassini's 49 km pass.
+https://science.nasa.gov/missions/cassini/enceladus-flyby-21-e-21-deepest-dive-through-the-plume/
